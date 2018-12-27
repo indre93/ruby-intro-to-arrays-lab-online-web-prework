@@ -4,5 +4,5 @@ end
 
 def array_with_two_elements(my_two_array)
   my_two_array = ["one", "two"]
-  my_two_array
+  puts my_two_array
 end
